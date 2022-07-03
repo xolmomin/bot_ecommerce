@@ -1,0 +1,23 @@
+.text_center {
+  text-align: center;
+}
+.circle_item {
+  width: 100px !important;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  border-radius: 50px;
+  align-items: center;
+  text-align: center;
+}
+.a_link {
+  color: white;
+  list-style: none;
+  text-decoration: none;
+}
+.a_link:hover {
+  color: white;
+}
+.border_25 {
+  border-radius: 25px;
+}
